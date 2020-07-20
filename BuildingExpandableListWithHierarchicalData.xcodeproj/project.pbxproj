@@ -14,6 +14,7 @@
 		9598808124C59E9900AA25F3 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9598808024C59E9900AA25F3 /* Item.swift */; };
 		9598808324C59EEB00AA25F3 /* ItemList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9598808224C59EEB00AA25F3 /* ItemList.swift */; };
 		9598808524C5A1F200AA25F3 /* SidebarList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9598808424C5A1F200AA25F3 /* SidebarList.swift */; };
+		9598808724C5A40F00AA25F3 /* FormList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9598808624C5A40F00AA25F3 /* FormList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		9598808024C59E9900AA25F3 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		9598808224C59EEB00AA25F3 /* ItemList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemList.swift; sourceTree = "<group>"; };
 		9598808424C5A1F200AA25F3 /* SidebarList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SidebarList.swift; sourceTree = "<group>"; };
+		9598808624C5A40F00AA25F3 /* FormList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FormList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				9598808024C59E9900AA25F3 /* Item.swift */,
 				9598808224C59EEB00AA25F3 /* ItemList.swift */,
 				9598808424C5A1F200AA25F3 /* SidebarList.swift */,
+				9598808624C5A40F00AA25F3 /* FormList.swift */,
 			);
 			path = BuildingExpandableListWithHierarchicalData;
 			sourceTree = "<group>";
@@ -150,6 +153,7 @@
 				9598808324C59EEB00AA25F3 /* ItemList.swift in Sources */,
 				9598807424C59E7600AA25F3 /* ContentView.swift in Sources */,
 				9598808124C59E9900AA25F3 /* Item.swift in Sources */,
+				9598808724C5A40F00AA25F3 /* FormList.swift in Sources */,
 				9598808524C5A1F200AA25F3 /* SidebarList.swift in Sources */,
 				9598807224C59E7600AA25F3 /* BuildingExpandableListWithHierarchicalDataApp.swift in Sources */,
 			);
