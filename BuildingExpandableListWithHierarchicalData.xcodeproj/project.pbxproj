@@ -13,6 +13,7 @@
 		9598807924C59E7700AA25F3 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9598807824C59E7700AA25F3 /* Preview Assets.xcassets */; };
 		9598808124C59E9900AA25F3 /* Item.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9598808024C59E9900AA25F3 /* Item.swift */; };
 		9598808324C59EEB00AA25F3 /* ItemList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9598808224C59EEB00AA25F3 /* ItemList.swift */; };
+		9598808524C5A1F200AA25F3 /* SidebarList.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9598808424C5A1F200AA25F3 /* SidebarList.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		9598807A24C59E7700AA25F3 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		9598808024C59E9900AA25F3 /* Item.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Item.swift; sourceTree = "<group>"; };
 		9598808224C59EEB00AA25F3 /* ItemList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ItemList.swift; sourceTree = "<group>"; };
+		9598808424C5A1F200AA25F3 /* SidebarList.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SidebarList.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				9598807724C59E7700AA25F3 /* Preview Content */,
 				9598808024C59E9900AA25F3 /* Item.swift */,
 				9598808224C59EEB00AA25F3 /* ItemList.swift */,
+				9598808424C5A1F200AA25F3 /* SidebarList.swift */,
 			);
 			path = BuildingExpandableListWithHierarchicalData;
 			sourceTree = "<group>";
@@ -147,6 +150,7 @@
 				9598808324C59EEB00AA25F3 /* ItemList.swift in Sources */,
 				9598807424C59E7600AA25F3 /* ContentView.swift in Sources */,
 				9598808124C59E9900AA25F3 /* Item.swift in Sources */,
+				9598808524C5A1F200AA25F3 /* SidebarList.swift in Sources */,
 				9598807224C59E7600AA25F3 /* BuildingExpandableListWithHierarchicalDataApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
